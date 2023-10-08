@@ -1,2 +1,2 @@
 # armc-web
-code for the website of my mc server
+the code for the website of my mc server
