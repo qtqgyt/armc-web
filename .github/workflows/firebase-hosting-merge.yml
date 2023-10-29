@@ -4,7 +4,7 @@ name: Deploy to website
     branches:
       - main
 jobs:
-  deploy-to-website:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
