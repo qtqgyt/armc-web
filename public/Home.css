@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 400px;
+  min-height: 627px;
 }
 
 .u-section-1 .u-countdown-1 {
@@ -9,7 +9,7 @@
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 2;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  margin: 67px auto 0;
+  margin: 294px auto 0;
   padding: 64px 264px;
 }
 
